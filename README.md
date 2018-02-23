@@ -2,7 +2,9 @@
 Proyectos Ionic
 
 -- 23/02/2018
-Añadido nuevo proyecto en Ionic para desarrollar una aplicación de juegos clasicos de mesa que ire desarrollando paso a paso y subiendo los cambios.
+Añadido nuevo proyecto en Ionic para desarrollar una aplicación de juegos clasicos de mesa que ire desarrollando paso a paso y subiendo los cambios. 
+
+Tener en cuenta que las carpetas del proyectos www, plugins, platforms, node_modules han sido retiradas del proyecto para dejarlo más liviano. Estás carpetas las podeis regenerar sin problemas localmente.
 
 Además he subido el documento TableGames con Ionic V1.0.pdf donde ire describiendo los pasos que voy haciendo para el desarrollo de la aplicación.
 
