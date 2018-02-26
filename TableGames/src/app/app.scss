@@ -14,3 +14,28 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+
+//DOM
+h1,h2,h3,h4,h5,h6{
+    color: color($colors, darkViolet, base); 
+}
+
+p{
+    color: color($colors, violet, base); 
+}
+
+//Clases
+.toolbar-background{
+    //también se puede acceder con --> map-get($map, $color-name); => background-color: map-get($colors, backgroundColor); 
+    background-color: color($colors, toolbarColor, base); 
+}
+
+.toolbar-title{
+    color: color($colors, darkViolet, base); 
+}
+
+.content{
+    background-color: color($colors, backgroundColor, base); 
+}
+
+//Identificadores
